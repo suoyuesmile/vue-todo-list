@@ -1,2 +1,0 @@
-# vue-todo-list
-demo
